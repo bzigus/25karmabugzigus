@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc5106d2.chunk.css",
+    "main.js": "/static/js/main.f4bb7ca3.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f8a38913.js",
+    "static/js/2.496f0b0e.chunk.js": "/static/js/2.496f0b0e.chunk.js",
+    "static/js/3.2b6667b6.chunk.js": "/static/js/3.2b6667b6.chunk.js",
+    "static/js/4.250b02c2.chunk.js": "/static/js/4.250b02c2.chunk.js",
+    "static/js/5.d3d49322.chunk.js": "/static/js/5.d3d49322.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.00cd179c786666512b61d44bbe2b4ab1.js": "/precache-manifest.00cd179c786666512b61d44bbe2b4ab1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.496f0b0e.chunk.js.LICENSE.txt": "/static/js/2.496f0b0e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/minecraft.ff1f96e3.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a38913.js",
+    "static/js/2.496f0b0e.chunk.js",
+    "static/css/main.fc5106d2.chunk.css",
+    "static/js/main.f4bb7ca3.chunk.js"
+  ]
+}
